@@ -1,3 +1,5 @@
+#Author=Hamayun Khan
+#College°Shabqadar
 #Logo
             print("WELCOME TO MY SCRIPT")
             
