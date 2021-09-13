@@ -1,6 +1,6 @@
 #Author=Hamayun Khan
 #College°Shabqadar
-#Logo
+logo=""
             print("WELCOME TO MY SCRIPT")
             
             \033[1;92m FACEBOOK CLONING
